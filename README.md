@@ -56,6 +56,10 @@ To prove real-world edge feasibility, we successfully ported the framework to an
 * **Runtime Stack:** Handled entirely offline on the ARM processor via a Jupyter Notebook control interface using `onnxruntime`, `opencv-python`, and `numpy`.
 * **Result:** Real-time localized signal bounding boxes generated efficiently at a confidence threshold of 0.25, proving the potential for low-latency, low-power edge spectrum monitoring.
 
+
+https://github.com/user-attachments/assets/a76fe3c0-2075-4df9-97c6-cd699e8f5844
+
+
 ---
 
 ## 📂 Repository Structure
