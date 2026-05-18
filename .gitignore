@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.weights
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
